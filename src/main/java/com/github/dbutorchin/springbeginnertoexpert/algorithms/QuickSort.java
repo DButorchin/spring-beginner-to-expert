@@ -1,4 +1,4 @@
-package com.githubt.dbutorchin.springbeginnertoexpert.algorithms;
+package com.github.dbutorchin.springbeginnertoexpert.algorithms;
 
 public class QuickSort implements Sort {
 

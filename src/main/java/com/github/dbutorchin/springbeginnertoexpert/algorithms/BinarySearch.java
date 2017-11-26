@@ -1,5 +1,8 @@
-package com.githubt.dbutorchin.springbeginnertoexpert.algorithms;
+package com.github.dbutorchin.springbeginnertoexpert.algorithms;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class BinarySearch implements Search {
 
 	private Sort sortingAlgorithm;
