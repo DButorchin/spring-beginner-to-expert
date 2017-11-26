@@ -1,6 +1,6 @@
 package com.githubt.dbutorchin.springbeginnertoexpert.algorithms;
 
-public class QuickSort implements Sorting {
+public class QuickSort implements Sort {
 
 	@Override
 	public int[] sort(int[] array) {

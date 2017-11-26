@@ -1,5 +1,5 @@
 package com.githubt.dbutorchin.springbeginnertoexpert.algorithms;
 
-public interface Sorting {
-	int[] sort(int[] array);
+public interface Search {
+	int search(int[] array, int number);
 }
